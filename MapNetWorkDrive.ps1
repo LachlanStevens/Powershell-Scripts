@@ -1,0 +1,1 @@
+﻿<# (new-object -com WScript.Network).MapNetworkDrive("$HomeDriveLetter","\\server\home\$UserName") #>
